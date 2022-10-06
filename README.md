@@ -1,7 +1,7 @@
 This repository contains the MATLAB&reg; code that was used to run simulations and obtain results presented in the paper:
 "Symbol-Level GRAND for High-Order Modulation over Flat Fading Channels" by Ioannis Chatzigeorgiou and Francisco Monteiro. The paper can be downloaded from: <a href="https://arxiv.org/abs/2207.07748" target="_blank">arxiv.org/abs/2207.07748</a>.
 
-We acknowledge that the methodology of Guessing Random Additive Noise Decoding (GRAND&trade;) has been developed by Ken Duffy, Jiange Li and Muriel Médard. For more details, please visit: https://www.granddecoder.mit.edu/ <a href="https://www.granddecoder.mit.edu/" target="_blank">www.granddecoder.mit.edu</a>.
+We acknowledge that the methodology of Guessing Random Additive Noise Decoding (GRAND&trade;) has been developed by Ken Duffy, Jiange Li and Muriel Médard. For more details, please visit: <a href="https://www.granddecoder.mit.edu/" target="_blank">www.granddecoder.mit.edu</a>.
 
 ## Reproduce the simulation plots using the available simulation data
 

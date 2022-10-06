@@ -11,4 +11,4 @@ Set the folder "Simulation_Results" as the Current Folder in MATLAB<sup>&reg;</s
 
 If you do not want to use the readily available simulation results but you prefer to re-run the simulations in order to obtain the MAT files, run `sim_RLC_16QAM_symbol_GRAND_Rayleigh_BLER` in the Command Window.
 
-Please edit the top lines in the file above if you wish to change the system parameters (e.g., code rate, abandonment threshold) or the channel parameters (e.g., the Eb/N0).
+Please edit the top lines in the file above if you wish to change the system parameters (e.g., code rate, abandonment threshold) or the channel parameters (e.g., the E<sub>b</sub>/N<sub>0</sub>).

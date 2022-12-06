@@ -6,8 +6,8 @@
 % the sequence of k bits using symbol-level GRAND.
 %
 % The system is described in 
-% "Symbol-Level GRAND for High-Order Modulation over Flat Fading Channels",
-% which has been uploaded to arXiv (https://arxiv.org/abs/2207.07748)
+% "Symbol-Level GRAND for High-Order Modulation over Block Fading Channels",
+% which has been accepted for publication in IEEE Communications Letters.
 % 
 % Authors: 
 % Ioannis Chatzigeorgiou, Lancaster University, United Kingdom

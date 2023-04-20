@@ -7,7 +7,7 @@
 %
 % The system is described in 
 % "Symbol-Level GRAND for High-Order Modulation over Block Fading Channels",
-% which has been accepted for publication in IEEE Communications Letters.
+% IEEE Communications Letters, vol. 27, no. 2, Feb. 2023, pp. 447-451.
 % 
 % Authors: 
 % Ioannis Chatzigeorgiou, Lancaster University, United Kingdom

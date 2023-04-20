@@ -1,5 +1,5 @@
 This repository contains the MATLAB&reg; code that was used to run simulations and obtain results presented in the paper:
-"Symbol-Level GRAND for High-Order Modulation over Block Fading Channels" by Ioannis Chatzigeorgiou and Francisco Monteiro. The paper has been accepted for publication in IEEE Communications Letters.
+"Symbol-Level GRAND for High-Order Modulation over Block Fading Channels" by Ioannis Chatzigeorgiou and Francisco Monteiro. The paper has been published in <a href="https://doi.org/10.1109/LCOMM.2022.3227593" target="_blank">IEEE Communications Letters</a> (vol.27, no.2, Feb.2023, pp.447-451).
 
 We acknowledge that the methodology of Guessing Random Additive Noise Decoding (GRAND&trade;) has been developed by Ken Duffy, Jiange Li and Muriel Médard. For more details, please visit: <a href="https://www.granddecoder.mit.edu/" target="_blank">www.granddecoder.mit.edu</a>.
 
